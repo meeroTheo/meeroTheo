@@ -5,6 +5,6 @@ My name is Meer and I'm computer science student. Heres some info about me!
 
 * Web development
 * Machine Learning
-* Photography
+* 3D Animation & Simulations
 
 
